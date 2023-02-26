@@ -1,5 +1,5 @@
 <div align="left">
-<img src="https://user-images.githubusercontent.com/126363111/221410108-df6332de-af2d-47cf-9e7d-512d21f517f2.png" width="100px" />
+<img src="https://user-images.githubusercontent.com/126363111/221411093-61cbc6d3-19a0-48cb-9554-76d63149c401.png" width="100px" />
 </div>
 <h1 align="center">Desafio de projeto Dio </h1>
 
